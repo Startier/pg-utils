@@ -1,10 +1,10 @@
 {
   "name": "@startier/pg-utils",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Utility functions for PostgreSQL",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "keywords": [],
+  "keywords": ["pg", "insert", "update", "query", "sql"],
   "author": "Simeon Markoski, Mihail Mojsoski",
   "license": "MIT",
   "type": "commonjs",
